@@ -1,0 +1,14 @@
+streamlit
+plotly
+numpy
+pandas
+scipy
+dataclasses
+logging
+xlsxwriter
+jinja2
+scikit-learn
+streamlit-authenticator
+python-telegram-bot
+requests
+streamlit-authenticator
